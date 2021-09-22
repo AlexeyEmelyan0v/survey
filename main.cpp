@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void get_results(int k) {
+void get_results(int k) {lllll
     ifstream in; in.open("results.txt");
     vector < vector <string> > res;
     string inf; int ind = 0; int l = 0;
